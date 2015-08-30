@@ -2,4 +2,4 @@
 
 ## Brasil
 
-- [Be MEAN - Construa seu Instagram *CROWDFUNDING*](http://nomadev.com.br/be-mean-construa-seu-instagram-via-crowdfunding/)
+- [Be MEAN - Construa seu Instagram **CROWDFUNDING**](https://github.com/Webschool-io/be-mean)
